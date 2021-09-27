@@ -42,7 +42,9 @@ p{
     margin: 10px;
     padding: 10px;
 }
-main{
+/* main{
     height: 65vh;
+} */
+#footer-container{
+    display: block;
 }
-
