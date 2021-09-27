@@ -29,6 +29,7 @@ footer{
     /* bottom: 0; */
     background-color: rgba(143, 223, 255, 0.795);
     height: 25vh;
+    height: fit-content;
 }
 h1{
     text-align: center;
